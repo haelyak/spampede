@@ -1,0 +1,14 @@
+---
+:id: 77213767
+:submitters:
+- :name: Eli Jacob Pregerson
+  :email: epregerson@hmc.edu
+- :name: Kayleah Sz-En Tsai
+  :email: ktsai@hmc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-28 02:32:31.775101000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-27 19:32:31.775101000 Z
+:status: processed
+:score: 110.0
